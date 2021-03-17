@@ -1,1 +1,2 @@
 # Historical-Stock-Data
+During the COVID-19 pandemic, many families and people were hit hard. Along with them, many industries were also disrupted, resulting in a volatile stock market. However, this is not the first or the last time that the stock market has experienced economic downturn. While it is not feasible to completely predict the future of prices, we can utilize historical stock prices in order to get a sense of the worst case price scenarios if and when news of the next “catastrophe” emerges.
